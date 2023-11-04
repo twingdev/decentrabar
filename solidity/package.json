@@ -1,5 +1,12 @@
 {
-  "name": "hardhat-project",
+  "name": "decentrabar",
+  "version": "0.0.1",
+  "author": "twing developers <dev@twing.social>",
+  "repository": "https://github.com/twingdev/decentrabar.git",
+  "private": false,
+  "module": "commonJs",
+  "main": "src/index.ts",
+  "bugs": "https://github.com/twingdev/decentrabar/issues",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox-viem": "^1.0.0",
     "hardhat": "^2.19.0"
